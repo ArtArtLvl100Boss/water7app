@@ -21,8 +21,6 @@ export default function RootLayout({
 }: Readonly<{
     children: React.ReactNode;
 }>) {
-    const water7img = '/water7.jpg';
-
     return (
         <html
             lang='en'
@@ -43,7 +41,7 @@ export default function RootLayout({
                                 <div className='flex items-center gap-2'>
                                     <div className='size-10 overflow-hidden rounded-md border'>
                                         <img
-                                            src={water7img}
+                                            src='../public/water7.jpg'
                                             className='size-full object-cover'
                                         />
                                     </div>
