@@ -41,7 +41,7 @@ export default function RootLayout({
                                 <div className='flex items-center gap-2'>
                                     <div className='size-10 overflow-hidden rounded-md border'>
                                         <img
-                                            src='../public/water7.jpg'
+                                            src='https://scontent.fcgy1-1.fna.fbcdn.net/v/t1.15752-9/387589500_871139797865809_2005712015906634352_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=1-7&_nc_sid=b70caf&_nc_eui2=AeEldwPm6dDudT8eKSA2iqxfkPtXwxKmu-KQ-1fDEqa74qH2Q8aJaNrYOYfm_fe8zihoy6nZHHoEij3-XqkjDrXo&_nc_ohc=uXMr_PNGGBoQ7kNvgHjlfFz&_nc_oc=AdhrwsUe5BqlX_5mh429nIoUUgRA-Sg5rKR75nB5Gp_fvJeESPwApA-AtbbxRzXdvY8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fcgy1-1.fna&oh=03_Q7cD1wE8xJqHoe___Ppljg8ZPTEod6-J6wWgMm42fLL-z57MEQ&oe=67FF4982'
                                             className='size-full object-cover'
                                         />
                                     </div>
